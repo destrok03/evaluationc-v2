@@ -1,0 +1,14 @@
+c:\Users\USER\Desktop\evaluation_c#_2\MonProjet\bin\Debug\net9.0\MonProjet.exe
+c:\Users\USER\Desktop\evaluation_c#_2\MonProjet\bin\Debug\net9.0\MonProjet.deps.json
+c:\Users\USER\Desktop\evaluation_c#_2\MonProjet\bin\Debug\net9.0\MonProjet.runtimeconfig.json
+c:\Users\USER\Desktop\evaluation_c#_2\MonProjet\bin\Debug\net9.0\MonProjet.dll
+c:\Users\USER\Desktop\evaluation_c#_2\MonProjet\bin\Debug\net9.0\MonProjet.pdb
+c:\Users\USER\Desktop\evaluation_c#_2\MonProjet\obj\Debug\net9.0\MonProjet.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Desktop\evaluation_c#_2\MonProjet\obj\Debug\net9.0\MonProjet.AssemblyInfoInputs.cache
+c:\Users\USER\Desktop\evaluation_c#_2\MonProjet\obj\Debug\net9.0\MonProjet.AssemblyInfo.cs
+c:\Users\USER\Desktop\evaluation_c#_2\MonProjet\obj\Debug\net9.0\MonProjet.csproj.CoreCompileInputs.cache
+c:\Users\USER\Desktop\evaluation_c#_2\MonProjet\obj\Debug\net9.0\MonProjet.dll
+c:\Users\USER\Desktop\evaluation_c#_2\MonProjet\obj\Debug\net9.0\refint\MonProjet.dll
+c:\Users\USER\Desktop\evaluation_c#_2\MonProjet\obj\Debug\net9.0\MonProjet.pdb
+c:\Users\USER\Desktop\evaluation_c#_2\MonProjet\obj\Debug\net9.0\MonProjet.genruntimeconfig.cache
+c:\Users\USER\Desktop\evaluation_c#_2\MonProjet\obj\Debug\net9.0\ref\MonProjet.dll
